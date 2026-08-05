@@ -25,7 +25,6 @@ Este repositório reúne e estrutura os meus principais projetos práticos na á
 
 * **Resumo:** Construção de uma pipeline completa que coleta dados de partidas e torneios via **Web Scraping (BeautifulSoup)**, enriquece as informações por meio do consumo da **PokeAPI** e pareamento aproximado de strings (**TheFuzz**), armazena a estrutura em um **banco relacional MySQL** e realiza análises preditivas/estatísticas para tomada de decisão estratégica em composição de equipes.
 * **Tecnologias Utilizadas:** `Python`, `BeautifulSoup`, `MySQL`, `Pandas`, `TheFuzz`, `Matplotlib`, `Seaborn`, `Jupyter Notebook`.
-* **Repositório do Projeto:** [vgc_limitless_webscraping](https://github.com/rafaeljlima/vgc_limitless_webscraping)
 
 ---
 
