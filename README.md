@@ -1,12 +1,20 @@
 <div align="center">
-  <h1>📊 Portfólio de Análise de Dados</h1>
-  <p><em>Projetos, pipelines de extração, modelagem SQL e análises estatísticas por <strong>Rafael Jardim de Lima</strong>.</em></p>
+  <!-- Language Switcher -->
+  <a href="https://rafaeljlima.github.io/rafaeljlima_portfolio/pt">
+    <img src="https://img.shields.io/badge/🇧🇷_Português-333333?style=for-the-badge&logoColor=white" alt="Versão em Português">
+  </a>
+  <a href="https://rafaeljlima.github.io/rafaeljlima_portfolio/">
+    <img src="https://img.shields.io/badge/🇺🇸_English-007ACC?style=for-the-badge&logoColor=white" alt="English Version">
+  </a>
+
+  <h1>📊 Data Analytics Portfolio</h1>
+  <p><em>Projects, extraction pipelines, SQL modeling, and statistical analyses by <strong>Rafael Jardim de Lima</strong>.</em></p>
 
   <a href="https://rafaeljlima.github.io/rafaeljlima_portfolio/">
-    <img src="https://img.shields.io/badge/🌐_Acessar_Site_do_Portfólio-007ACC?style=for-the-badge&logoColor=white" alt="Website Portfólio">
+    <img src="https://img.shields.io/badge/🌐_Visit_Portfolio_Website-007ACC?style=for-the-badge&logoColor=white" alt="Portfolio Website">
   </a>
   <a href="https://github.com/rafaeljlima">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Perfil GitHub">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
   </a>
   <a href="https://www.linkedin.com/in/rafaeljdlima/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -15,33 +23,33 @@
 
 ---
 
-## 👨‍💻 Sobre Este Repositório
+## 👨‍💻 About This Repository
 
-Este repositório reúne e estrutura os meus principais projetos práticos na área de **Análise de Dados**. Aqui apresento pipelines de extração (Web Scraping / APIs), saneamento, modelagem relacional e análises focadas na geração de insights acionáveis a partir de dados brutos.
-
----
-
-## 🚀 Projetos em Destaque
-
-### 🎮 1. [VGC Limitless Web Scraping & Análise Estatística](https://github.com/rafaeljlima/vgc_limitless_webscraping)
-> **Pipeline de dados end-to-end para análise de metagame competitivo de Pokémon VGC.**
-
-* **Resumo:** Construção de uma pipeline completa que coleta dados de partidas e torneios via **Web Scraping (BeautifulSoup)**, enriquece as informações por meio do consumo da **PokeAPI** e pareamento aproximado de strings (**TheFuzz**), armazena a estrutura em um **banco relacional MySQL** e realiza análises preditivas/estatísticas para tomada de decisão estratégica em composição de equipes.
-* **Tecnologias Utilizadas:** `Python`, `BeautifulSoup`, `MySQL`, `Pandas`, `TheFuzz`, `Matplotlib`, `Seaborn`, `Jupyter Notebook`.
+This repository compiles and structures my main hands-on projects in **Data Analytics**. Here I showcase end-to-end extraction pipelines (Web Scraping / APIs), data cleaning, relational modeling, and analytical frameworks designed to derive actionable insights from raw data.
 
 ---
 
-## 🛠️ Stack Principal
+## 🚀 Featured Projects
 
-| Categoria | Tecnologias |
+### 🎮 1. [VGC Limitless Web Scraping & Statistical Analysis](https://github.com/rafaeljlima/vgc_limitless_webscraping)
+> **End-to-end data pipeline for competitive Pokémon VGC metagame analysis.**
+
+* **Summary:** Built a complete pipeline that collects tournament and match data via **Web Scraping (BeautifulSoup)**, enriches the dataset by integrating the **PokeAPI** and fuzzy string matching (**TheFuzz**), stores structured data in a **relational MySQL database**, and performs statistical analyses for strategic team-building decision-making.
+* **Tech Stack:** `Python`, `BeautifulSoup`, `MySQL`, `Pandas`, `TheFuzz`, `Matplotlib`, `Seaborn`, `Jupyter Notebook`.
+
+---
+
+## 🛠️ Main Tech Stack
+
+| Category | Technologies |
 | :--- | :--- |
-| **Linguagens & Consulta** | Python, SQL (MySQL) |
-| **Análise & Manipulação** | Pandas, NumPy |
-| **Coleta & Integração** | BeautifulSoup, Requests, REST APIs, TheFuzz |
-| **Visualização & Ferramentas** | Matplotlib, Seaborn, Jupyter Notebook |
+| **Languages & Querying** | Python, SQL (MySQL) |
+| **Analysis & Wrangling** | Pandas, NumPy |
+| **Data Collection & Integration** | BeautifulSoup, Requests, REST APIs, TheFuzz |
+| **Visualization & Tools** | Matplotlib, Seaborn, Jupyter Notebook |
 
 ---
 
-## 📬 Contato
+## 📬 Contact
 
-- **E-mail:** [rafaelj13.lima@gmail.com](mailto:rafaelj13.lima@gmail.com)
+- **Email:** [rafaelj13.lima@gmail.com](mailto:rafaelj13.lima@gmail.com)
