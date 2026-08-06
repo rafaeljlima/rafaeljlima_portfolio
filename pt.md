@@ -1,4 +1,15 @@
 <div align="center">
+
+  <div align="center">
+    <!-- Seletor de Idioma -->
+    <a href="https://rafaeljlima.github.io/rafaeljlima_portfolio/pt">
+      <img src="https://img.shields.io/badge/🇧🇷_Português-007ACC?style=for-the-badge&logoColor=white" alt="Versão em Português">
+    </a>
+    <a href="https://rafaeljlima.github.io/rafaeljlima_portfolio/">
+      <img src="https://img.shields.io/badge/🇺🇸_English-333333?style=for-the-badge&logoColor=white" alt="English Version">
+    </a>
+  </div>
+
   <h1>📊 Portfólio de Análise de Dados</h1>
   <p><em>Projetos, pipelines de extração, modelagem SQL e análises estatísticas por <strong>Rafael Jardim de Lima</strong>.</em></p>
 
